@@ -1,8 +1,9 @@
+import MultiStepForm from "../component/multiform"
 
-import Multiform from "../component/multiform"
+
 function App() {
   return (
-    <Multiform></Multiform>
+    <MultiStepForm></MultiStepForm>
   )
 }
 
