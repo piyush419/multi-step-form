@@ -1,1 +1,1 @@
-export const API = "http://localhost:5000/api/user"
+export const API = "https://multi-step-form-e9q9.onrender.com/"
