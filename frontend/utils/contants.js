@@ -1,1 +1,1 @@
-export const API = "https://multi-step-form-e9q9.onrender.com/"
+export const API = "https://multi-step-form-e9q9.onrender.com"
