@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './step1.css';
+import './Step1.css';
 import { API } from '../utils/contants';
 
 const Step1 = ({ formData, updateForm, nextStep }) => {
